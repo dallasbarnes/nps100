@@ -2813,7 +2813,7 @@ $(document).ready(function() {
             /* 1st Slide */
 
             if(index == 1){
-                $( "body" ).find('#right-content').css( "background-image", "url(../img/yellowstone-thermal.jpg)" );
+                $( "body" ).find('#right-content').css( "background-image", "url(img/yellowstone-thermal.jpg)" );
             }
             if(index == 1){
                 $('.year.first').addClass('active');
@@ -2825,7 +2825,7 @@ $(document).ready(function() {
             /* 2nd Slide */
 
             if(index == 2){
-                $( "body" ).find('#right-content').css( "background-image", "url(../img/yosemite-rock.jpg)" );
+                $( "body" ).find('#right-content').css( "background-image", "url(img/yosemite-rock.jpg)" );
             }
             if(index == 2){
                 $('#section1 .svg-container').addClass('active');
@@ -2840,7 +2840,7 @@ $(document).ready(function() {
             /* 3rd Slide */
 
             if(index == 3){
-                $( "body" ).find('#right-content').css( "background-image", "url(../img/glacier-river.jpg)" );
+                $( "body" ).find('#right-content').css( "background-image", "url(img/glacier-river.jpg)" );
             }
             if(index == 3){
                 $('#section2 .svg-container').addClass('active');
